@@ -1,8 +1,3 @@
-# Email-Service
-Certainly! Below is a README file for your resilient email sending service in JavaScript. I've included setup instructions and assumptions to help you get started. Feel free to customize it further based on your specific needs:
-
----
-
 # Resilient Email Sending Service
 
 ## Overview
@@ -88,9 +83,6 @@ Feel free to enhance the service with these bonus features:
 3. **Basic Queue System**: Implement a more robust queue system (e.g., using Redis or RabbitMQ).
 
 ## Unit Tests
+Run the tests:
+npx jest EmailService.test.js
 
-Write unit tests for each method using a testing framework like Jest.
-
----
-
-Feel free to adapt this README to your project's specifics. If you have any questions or need further assistance, don't hesitate to ask! 🚀
