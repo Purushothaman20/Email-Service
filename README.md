@@ -53,6 +53,9 @@ This project implements a resilient email sending service in JavaScript. It incl
    npm start
    ```
 
+7. **Libraries**:
+   - Make sure to install libraries like uuid.
+
 ## Usage
 
 1. Create an instance of `EmailService` with your providers:
