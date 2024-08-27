@@ -53,8 +53,8 @@ This project implements a resilient email sending service in JavaScript. It incl
    npm start
    ```
 
-7. **Libraries**:
-   - Make sure to install libraries like uuid.
+7. **Package**:
+   - Make sure to install json package like uuid to run the program.
 
 ## Usage
 
